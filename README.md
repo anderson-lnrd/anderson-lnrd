@@ -13,8 +13,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderson-lnrd&show_icons=true&theme=dark)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ljbmkmgs31b3coy5yamo6k2ea)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/andersonleonxrd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andersonleonxrd" height="30" width="40" /></a>
