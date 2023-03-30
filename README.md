@@ -11,6 +11,10 @@
 
 - ⚡ Fun fact **I actually Kinda like Interface development**
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderson-lnrd&show_icons=true&theme=dark)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ljbmkmgs31b3coy5yamo6k2ea)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/andersonleonxrd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andersonleonxrd" height="30" width="40" /></a>
@@ -18,9 +22,3 @@
 <a href="https://instagram.com/andersonleonxrdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andersonleonxrdo" height="30" width="40" /></a>
 <a href="https://discord.gg/Dime#8662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dime#8662" height="30" width="40" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anderson-lnrd&show_icons=true&locale=en" alt="anderson-lnrd" /></p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderson-lnrd&show_icons=true&theme=dark)
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ljbmkmgs31b3coy5yamo6k2ea)
