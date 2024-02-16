@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Anderson</h1>
 <h3 align="center">A frontend developer from Brasil</h3>
 
-- 🔭 I’m currently working on **ServiceNow support and implementation**
+- 🔭 I’m currently working on **Ottimizza Integração Contábil**
 
-- 🌱 I’m currently learning **NodeJs and ServiceNow**
+- 🌱 I’m currently learning **NodeJs and UI/UX**
 
 - 💬 Ask me about **General Web Development**
 
